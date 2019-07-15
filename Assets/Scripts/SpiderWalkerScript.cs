@@ -32,4 +32,9 @@ public class SpiderWalkerScript : MonoBehaviour {
             transform.localScale = temp;
         }
     }
+    void OnTriggerEnter2D(Collider2D target) {
+        if (target.tag == "Player") {
+            Destroy(target.gameObject);
+        }
+    }
 }
