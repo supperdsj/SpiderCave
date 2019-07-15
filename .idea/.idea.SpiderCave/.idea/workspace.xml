@@ -2,68 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="94e9df9b-e8e4-4bf0-9746-301de7500dd4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/Font.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Font/KOMIKRAK.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Font/KOMIKRAK.ttf.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/BG Sprites.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/BG Sprites/Background.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/BG Sprites/Background.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Game Sprites.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Game Sprites/Bouncer.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Game Sprites/Bouncer.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Game Sprites/Collectables.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Game Sprites/Collectables.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Game Sprites/Door.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Game Sprites/Door.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Game Sprites/Grounds.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Game Sprites/Grounds.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Game Sprites/Player.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Game Sprites/Player.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Game Sprites/Spider Jumper.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Game Sprites/Spider Jumper.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Game Sprites/Spider Shooter.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Game Sprites/Spider Shooter.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Game Sprites/Spider Walker.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Game Sprites/Spider Walker.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Game Sprites/Spikes.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Game Sprites/Spikes.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Game Sprites/exit.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Game Sprites/exit.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/UI.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/UI/Buttons.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/UI/Buttons.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/UI/HUD.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/UI/HUD.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.SpiderCave/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SpiderCave/.idea/contentModel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.SpiderCave/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SpiderCave/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.SpiderCave/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SpiderCave/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Gameplay.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Gameplay.unity.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/NewBehaviourScript.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/NewBehaviourScript.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Gameplay.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Gameplay.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/EditorInstance.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/EditorInstance.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/SceneVisibilityState.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/SceneVisibilityState.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ShaderCache/EditorEncounteredVariants" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ShaderCache/EditorEncounteredVariants" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/StateCache/Hierarchy/033b7f-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/Hierarchy/033b7f-mainStage.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/StateCache/SceneView/fb011a-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/SceneView/fb011a-mainStage.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/assetDatabase3" beforeDir="false" afterPath="$PROJECT_DIR$/Library/assetDatabase3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/07/0703b0a2801b54e7bba2afe3b4d181ef" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/07/0703b0a2801b54e7bba2afe3b4d181ef.info" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/2c/2cda990e2423bbf4892e6590ba056729" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/2c/2cda990e2423bbf4892e6590ba056729.info" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/eb/eb732e658a55941d193b86c6c196e4d9" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/eb/eb732e658a55941d193b86c6c196e4d9.info" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler0.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler0.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SpiderCave.sln" beforeDir="false" afterPath="$PROJECT_DIR$/SpiderCave.sln" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-38d98145b10ea4a7da20c7a6f2d780de" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-824a20277e744456eb592c85aca361c9" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-c80b80cef6cad433780e9e57aa4a168b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-caee8ccb532144128b1ba86d7f676972" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-d48a9251d572648cc8c261b61d5295e4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-ed4799ea35de443f5960f3d8028d4eba" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-f909e1e5659d74b2caeda634268ad023" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -73,10 +26,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/learn.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="85">
+                <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assembly-CSharp.csproj">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-6621" />
+            <state relative-caret-position="-5329" />
           </provider>
         </entry>
       </file>
@@ -85,11 +50,37 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="141">
               <caret line="35" column="8" selection-start-line="35" selection-start-column="2" selection-end-line="35" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/PlayerScript.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="412">
+              <caret line="65" column="9" selection-start-line="65" selection-start-column="9" selection-end-line="65" selection-end-column="9" />
+              <folding>
+                <marker date="1563183907302" expanded="true" signature="6:92" ph="..." />
+                <marker date="1563183907302" expanded="true" signature="136:1704" ph="{...}" />
+                <marker date="1563183907302" expanded="true" signature="295:389" ph="{...}" />
+                <marker date="1563183907302" expanded="true" signature="409:416" ph="{...}" />
+                <marker date="1563183907302" expanded="true" signature="441:478" ph="{...}" />
+                <marker date="1563183907302" expanded="true" signature="510:1557" ph="{...}" />
+                <marker date="1563183907302" expanded="true" signature="674:955" ph="{...}" />
+                <marker date="1563183907302" expanded="true" signature="711:787" ph="{...}" />
+                <marker date="1563183907302" expanded="true" signature="980:1264" ph="{...}" />
+                <marker date="1563183907302" expanded="true" signature="1018:1095" ph="{...}" />
+                <marker date="1563183907302" expanded="true" signature="1264:1330" ph="{...}" />
+                <marker date="1563183907302" expanded="true" signature="1373:1496" ph="{...}" />
+                <marker date="1563183907302" expanded="true" signature="1401:1486" ph="{...}" />
+                <marker date="1563183907302" expanded="true" signature="1607:1702" ph="{...}" />
+                <marker date="1563183907302" expanded="true" signature="1656:1696" ph="{...}" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -103,6 +94,17 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerScript.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerScript.cs" />
+        <option value="$PROJECT_DIR$/learn.md" />
+      </list>
+    </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
@@ -184,7 +186,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1563178550576</updated>
-      <workItem from="1563178553055" duration="716000" />
+      <workItem from="1563178553055" duration="3376000" />
     </task>
     <task id="LOCAL-00001" summary="init project">
       <created>1563178641619</created>
@@ -193,11 +195,18 @@
       <option name="project" value="LOCAL" />
       <updated>1563178641619</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="slice sprites">
+      <created>1563180157741</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1563180157741</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="716000" />
+    <option name="totallyTimeSpent" value="3376000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -210,6 +219,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="807" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
@@ -220,8 +230,8 @@
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Unit Tests" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.2769231" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" sideWeight="0.49928468" weight="0.2769231" />
+      <window_info anchor="bottom" id="Event Log" sideWeight="0.5007153" side_tool="true" weight="0.2769231" />
       <window_info anchor="bottom" id="Performance Profiler" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -237,6 +247,33 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.24964234" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="NuGet" order="0" />
+      <window_info anchor="bottom" id="Docker" order="1" />
+      <window_info anchor="bottom" id="Unity" order="2" />
+      <window_info anchor="bottom" id="Unit Tests" order="3" />
+      <window_info anchor="bottom" id="Terminal" order="4" sideWeight="0.49928468" visible="true" weight="0.2769231" />
+      <window_info anchor="bottom" id="Event Log" order="5" sideWeight="0.5007153" side_tool="true" visible="true" weight="0.2769231" />
+      <window_info anchor="bottom" id="Database Changes" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Performance Profiler" order="8" />
+      <window_info anchor="bottom" id="Message" order="9" />
+      <window_info anchor="bottom" id="Find" order="10" />
+      <window_info anchor="bottom" id="Run" order="11" />
+      <window_info anchor="bottom" id="Debug" order="12" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="13" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="14" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="15" />
+      <window_info anchor="right" id="Errors In Solution" order="0" />
+      <window_info anchor="right" id="Database" order="1" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="2" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="3" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="4" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="5" weight="0.25" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -245,7 +282,8 @@
   <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init project" />
-    <option name="LAST_COMMIT_MESSAGE" value="init project" />
+    <MESSAGE value="slice sprites" />
+    <option name="LAST_COMMIT_MESSAGE" value="slice sprites" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -268,15 +306,49 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assembly-CSharp.csproj">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-6621" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="141">
           <caret line="35" column="8" selection-start-line="35" selection-start-column="2" selection-end-line="35" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assembly-CSharp.csproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5329" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/PlayerScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="412">
+          <caret line="65" column="9" selection-start-line="65" selection-start-column="9" selection-end-line="65" selection-end-column="9" />
+          <folding>
+            <marker date="1563183907302" expanded="true" signature="6:92" ph="..." />
+            <marker date="1563183907302" expanded="true" signature="136:1704" ph="{...}" />
+            <marker date="1563183907302" expanded="true" signature="295:389" ph="{...}" />
+            <marker date="1563183907302" expanded="true" signature="409:416" ph="{...}" />
+            <marker date="1563183907302" expanded="true" signature="441:478" ph="{...}" />
+            <marker date="1563183907302" expanded="true" signature="510:1557" ph="{...}" />
+            <marker date="1563183907302" expanded="true" signature="674:955" ph="{...}" />
+            <marker date="1563183907302" expanded="true" signature="711:787" ph="{...}" />
+            <marker date="1563183907302" expanded="true" signature="980:1264" ph="{...}" />
+            <marker date="1563183907302" expanded="true" signature="1018:1095" ph="{...}" />
+            <marker date="1563183907302" expanded="true" signature="1264:1330" ph="{...}" />
+            <marker date="1563183907302" expanded="true" signature="1373:1496" ph="{...}" />
+            <marker date="1563183907302" expanded="true" signature="1401:1486" ph="{...}" />
+            <marker date="1563183907302" expanded="true" signature="1607:1702" ph="{...}" />
+            <marker date="1563183907302" expanded="true" signature="1656:1696" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="85">
+            <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
