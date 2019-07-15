@@ -3,8 +3,13 @@
   <component name="ChangeListManager">
     <list default="true" id="94e9df9b-e8e4-4bf0-9746-301de7500dd4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.SpiderCave/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SpiderCave/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/SpiderShooterScript.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/SpiderShooterScript.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/SpiderWalkerScript.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/SpiderWalkerScript.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Gameplay.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Gameplay.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Game Sprites/Door.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Game Sprites/Door.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/StateCache/Hierarchy/033b7f-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/Hierarchy/033b7f-mainStage.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/StateCache/SceneView/fb011a-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/SceneView/fb011a-mainStage.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/assetDatabase3" beforeDir="false" afterPath="$PROJECT_DIR$/Library/assetDatabase3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn.md" beforeDir="false" afterPath="$PROJECT_DIR$/learn.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,8 +23,8 @@
         <entry file="file://$PROJECT_DIR$/learn.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="119">
-                <caret line="6" column="22" lean-forward="true" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+              <first_editor relative-caret-position="187">
+                <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
               </first_editor>
               <second_editor />
             </state>
@@ -30,7 +35,7 @@
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/SpiderShooterScript.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="357">
-              <caret line="21" column="9" lean-forward="true" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+              <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
               <folding>
                 <marker date="1563201698154" expanded="true" signature="6:127" ph="..." />
                 <marker date="1563201698154" expanded="true" signature="178:620" ph="{...}" />
@@ -47,7 +52,7 @@
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/SpiderJumperScript.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="493">
-              <caret line="34" column="5" lean-forward="true" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
+              <caret line="34" column="5" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
               <folding>
                 <marker date="1563185861780" expanded="true" signature="6:127" ph="..." />
                 <marker date="1563185861780" expanded="true" signature="176:903" ph="{...}" />
@@ -62,11 +67,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/SpiderWalkerScript.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="497">
-              <caret line="37" column="9" lean-forward="true" selection-start-line="37" selection-start-column="9" selection-end-line="37" selection-end-column="9" />
+              <caret line="37" column="9" selection-start-line="37" selection-start-column="9" selection-end-line="37" selection-end-column="9" />
               <folding>
                 <marker date="1563201699543" expanded="true" signature="6:92" ph="..." />
                 <marker date="1563201699543" expanded="true" signature="142:1036" ph="{...}" />
@@ -77,6 +82,27 @@
                 <marker date="1563201699543" expanded="true" signature="751:887" ph="{...}" />
                 <marker date="1563201699543" expanded="true" signature="939:1034" ph="{...}" />
                 <marker date="1563201699543" expanded="true" signature="977:1028" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/DoorScript.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4">
+              <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+              <folding>
+                <marker date="1563202257556" expanded="true" signature="6:122" ph="..." />
+                <marker date="1563202257556" expanded="true" signature="164:948" ph="{...}" />
+                <marker date="1563202257556" expanded="true" signature="318:435" ph="{...}" />
+                <marker date="1563202257556" expanded="true" signature="461:539" ph="{...}" />
+                <marker date="1563202257556" expanded="true" signature="493:533" ph="{...}" />
+                <marker date="1563202257556" expanded="true" signature="580:704" ph="{...}" />
+                <marker date="1563202257556" expanded="true" signature="647:698" ph="{...}" />
+                <marker date="1563202257556" expanded="true" signature="733:843" ph="{...}" />
+                <marker date="1563202257556" expanded="true" signature="890:946" ph="{...}" />
+                <marker date="1563202257556" expanded="true" signature="928:940" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -93,10 +119,12 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DoorScript.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerScript.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/SpiderBulletScript.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/SpiderShooterScript.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/SpiderWalkerScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Prefabs/SpiderWalker.prefab" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/SpiderJumperScript.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -105,9 +133,10 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/PlayerScript.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/SpiderBulletScript.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/SpiderJumperScript.cs" />
-        <option value="$PROJECT_DIR$/learn.md" />
         <option value="$PROJECT_DIR$/Assets/Scripts/SpiderShooterScript.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/SpiderWalkerScript.cs" />
+        <option value="$PROJECT_DIR$/learn.md" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DoorScript.cs" />
       </list>
     </option>
   </component>
@@ -191,7 +220,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1563178550576</updated>
-      <workItem from="1563178553055" duration="7458000" />
+      <workItem from="1563178553055" duration="7912000" />
     </task>
     <task id="LOCAL-00001" summary="init project">
       <created>1563178641619</created>
@@ -221,11 +250,25 @@
       <option name="project" value="LOCAL" />
       <updated>1563201678328</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="finish spiders">
+      <created>1563201704103</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1563201704103</updated>
+    </task>
+    <task id="LOCAL-00006" summary="finish spiders">
+      <created>1563201729930</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1563201729930</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7458000" />
+    <option name="totallyTimeSpent" value="7912000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -377,20 +420,10 @@
     <entry file="file://$PROJECT_DIR$/SpiderCave.sln">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/learn.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="119">
-            <caret line="6" column="22" lean-forward="true" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/SpiderJumperScript.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="493">
-          <caret line="34" column="5" lean-forward="true" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
+          <caret line="34" column="5" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
           <folding>
             <marker date="1563185861780" expanded="true" signature="6:127" ph="..." />
             <marker date="1563185861780" expanded="true" signature="176:903" ph="{...}" />
@@ -407,7 +440,7 @@
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/SpiderShooterScript.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
-          <caret line="21" column="9" lean-forward="true" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+          <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
           <folding>
             <marker date="1563201698154" expanded="true" signature="6:127" ph="..." />
             <marker date="1563201698154" expanded="true" signature="178:620" ph="{...}" />
@@ -422,7 +455,7 @@
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/SpiderWalkerScript.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="497">
-          <caret line="37" column="9" lean-forward="true" selection-start-line="37" selection-start-column="9" selection-end-line="37" selection-end-column="9" />
+          <caret line="37" column="9" selection-start-line="37" selection-start-column="9" selection-end-line="37" selection-end-column="9" />
           <folding>
             <marker date="1563201699543" expanded="true" signature="6:92" ph="..." />
             <marker date="1563201699543" expanded="true" signature="142:1036" ph="{...}" />
@@ -433,6 +466,35 @@
             <marker date="1563201699543" expanded="true" signature="751:887" ph="{...}" />
             <marker date="1563201699543" expanded="true" signature="939:1034" ph="{...}" />
             <marker date="1563201699543" expanded="true" signature="977:1028" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="187">
+            <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/DoorScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4">
+          <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+          <folding>
+            <marker date="1563202257556" expanded="true" signature="6:122" ph="..." />
+            <marker date="1563202257556" expanded="true" signature="164:948" ph="{...}" />
+            <marker date="1563202257556" expanded="true" signature="318:435" ph="{...}" />
+            <marker date="1563202257556" expanded="true" signature="461:539" ph="{...}" />
+            <marker date="1563202257556" expanded="true" signature="493:533" ph="{...}" />
+            <marker date="1563202257556" expanded="true" signature="580:704" ph="{...}" />
+            <marker date="1563202257556" expanded="true" signature="647:698" ph="{...}" />
+            <marker date="1563202257556" expanded="true" signature="733:843" ph="{...}" />
+            <marker date="1563202257556" expanded="true" signature="890:946" ph="{...}" />
+            <marker date="1563202257556" expanded="true" signature="928:940" ph="{...}" />
           </folding>
         </state>
       </provider>

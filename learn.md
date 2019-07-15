@@ -6,3 +6,4 @@
 * 为对象的 Collider 的 Material 设置 New Physics Material 2D 来实现弹力 
 * IEnumerator 递归实现循环攻击
 * collision = Physics2D.Linecast(startPos.position, endPos.position, 1 << LayerMask.NameToLayer("Ground"));//获取特定Layer起止点的平面
+* 雪碧图切片时除自动外还可选择平均距离切
