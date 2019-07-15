@@ -9,6 +9,10 @@
       <e p="Assets" t="Include">
         <e p="Scripts" t="Include">
           <e p="PlayerScript.cs" t="Include" />
+          <e p="SpiderBulletScript.cs" t="Include" />
+          <e p="SpiderJumperScript.cs" t="Include" />
+          <e p="SpiderShooterScript.cs" t="Include" />
+          <e p="SpiderWalkerScript.cs" t="Include" />
         </e>
       </e>
       <e p="obj" t="ExcludeRecursive" />

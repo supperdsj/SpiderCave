@@ -66,6 +66,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\PlayerScript.cs" />
+    <Compile Include="Assets\Scripts\SpiderBulletScript.cs" />
+    <Compile Include="Assets\Scripts\SpiderJumperScript.cs" />
+    <Compile Include="Assets\Scripts\SpiderShooterScript.cs" />
+    <Compile Include="Assets\Scripts\SpiderWalkerScript.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>/Users/dongsj/Unity/SpiderCave/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>

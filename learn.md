@@ -4,3 +4,5 @@
 * transform.localScale 改变人物朝向
 * 无摩擦力的作用下，应考虑合力问题（如空中操作）
 * 为对象的 Collider 的 Material 设置 New Physics Material 2D 来实现弹力 
+* IEnumerator 递归实现循环攻击
+* collision = Physics2D.Linecast(startPos.position, endPos.position, 1 << LayerMask.NameToLayer("Ground"));//获取特定Layer起止点的平面
