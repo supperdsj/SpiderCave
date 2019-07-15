@@ -11,6 +11,8 @@
           <e p="BouncerScript.cs" t="Include" />
           <e p="DimondScript.cs" t="Include" />
           <e p="DoorScript.cs" t="Include" />
+          <e p="LevelController.cs" t="Include" />
+          <e p="MainMenuController.cs" t="Include" />
           <e p="PlayerScript.cs" t="Include" />
           <e p="SpiderBulletScript.cs" t="Include" />
           <e p="SpiderJumperScript.cs" t="Include" />
