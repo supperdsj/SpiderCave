@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 6893160967328965878}
   - component: {fileID: 6893160967328965879}
   - component: {fileID: 6646484135935598155}
+  - component: {fileID: 2003413847}
   m_Layer: 0
   m_Name: Bouncer
   m_TagString: Untagged
@@ -111,7 +112,7 @@ BoxCollider2D:
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: -0.18838614}
@@ -127,3 +128,15 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.45, y: 0.1332277}
   m_EdgeRadius: 0
+--- !u!114 &2003413847
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6893160967328965872}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f3eeec72b519482e887b19f6703e19d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
